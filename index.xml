@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>yunqi7的博客</title>
-    <link>http://example.org/</link>
+    <link>http://yunqi7.github.io/</link>
     <description>Recent content on yunqi7的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Wed, 22 Apr 2020 18:52:45 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yunqi7.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>如何使用Github Pages预览HTML</title>
-      <link>http://example.org/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8github-pages%E9%A2%84%E8%A7%88html/</link>
+      <link>http://yunqi7.github.io/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8github-pages%E9%A2%84%E8%A7%88html/</link>
       <pubDate>Wed, 22 Apr 2020 18:52:45 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8github-pages%E9%A2%84%E8%A7%88html/</guid>
+      <guid>http://yunqi7.github.io/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8github-pages%E9%A2%84%E8%A7%88html/</guid>
       <description>1.点击Settings
 2.向下拉找到Github Pages,将None切换为master branch
 3.等待页面加载完成后，再次拉到这里，横线处就是需要展示的html了</description>
@@ -24,19 +24,19 @@
     
     <item>
       <title>开博大吉</title>
-      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <link>http://yunqi7.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Wed, 22 Apr 2020 00:38:50 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <guid>http://yunqi7.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
       <description>大家好 我的博客开通了，希望我能写出好文章给大家看。</description>
     </item>
     
     <item>
       <title>第二篇博客</title>
-      <link>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <link>http://yunqi7.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Wed, 22 Apr 2020 00:38:50 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>http://yunqi7.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
       <description>大家好 这是我的第二篇博客。</description>
     </item>
     
