@@ -6,10 +6,21 @@
     <description>Recent content on yunqi7的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Wed, 22 Apr 2020 00:38:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2020 18:52:45 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何使用Github Pages预览HTML</title>
+      <link>http://example.org/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8github-pages%E9%A2%84%E8%A7%88html/</link>
+      <pubDate>Wed, 22 Apr 2020 18:52:45 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8github-pages%E9%A2%84%E8%A7%88html/</guid>
+      <description>1.点击Settings
+2.向下拉找到Github Pages,将None切换为master branch
+3.等待页面加载完成后，再次拉到这里，横线处就是需要展示的html了</description>
+    </item>
     
     <item>
       <title>开博大吉</title>
